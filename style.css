@@ -1,0 +1,18 @@
+#arrow_up{
+    width:4%;
+}
+
+body{
+text-align: center;
+background-image:linear-gradient(#e66465, #9198e5);
+}
+
+.login_div{
+    margin-top: 150px;
+}
+
+#user_n{
+border-radius: 10px;
+width:400px;
+height: 35px;
+}
